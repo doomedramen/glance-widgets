@@ -1,0 +1,8 @@
+name: random-fact
+version: 1.0.0
+author: svilenmarkov
+description: Display random interesting facts
+tags:
+  - fun
+  - api
+repository: https://github.com/svilenmarkov/random-fact-widget
