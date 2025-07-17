@@ -1,0 +1,9 @@
+base_url: https://raw.githubusercontent.com/doomedramen/glance-widgets/main/widgets/
+widgets:
+  random-fact:
+    name: random-fact
+    author: svilenmarkov
+    description: Display random interesting facts
+    tags: [fun, api]
+    version: 1.0.0
+    repository: https://github.com/doomedramen/glance-widgets/tree/main/widgets/svilenmarkov/random-fact
